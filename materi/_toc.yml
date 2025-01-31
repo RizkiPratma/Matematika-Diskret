@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
+- file: Teori Himpunan
+- file: Logika Matematika
+- file: Algoritma
+- file: Aljabar Bolean dan logika
+- file: Centrality_Graph
+- file: DERETAN DAN REKURSI
+- file: Probabilitas Diskrit
+- file: materi/24-181_RIZKI PRATAMA SUNARKO_UAS_MATEMATIKA DIKSKRET (1)
